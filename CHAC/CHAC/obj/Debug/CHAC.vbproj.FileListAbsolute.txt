@@ -1,0 +1,12 @@
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\bin\Debug\CHAC.exe.config
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\bin\Debug\CHAC.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\bin\Debug\CHAC.pdb
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\bin\Debug\CHAC.xml
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.vbproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.Form1.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.Resources.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.vbproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.vbproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.xml
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\CHAC\CHAC\obj\Debug\CHAC.pdb
