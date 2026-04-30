@@ -1,0 +1,12 @@
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\bin\Debug\KSys.exe.config
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\bin\Debug\KSys.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\bin\Debug\KSys.pdb
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\bin\Debug\KSys.xml
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.vbproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.Form1.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.Resources.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.vbproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.vbproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.xml
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\KSys\KSys\obj\Debug\KSys.pdb
